@@ -125,4 +125,4 @@ if __name__ == "__main__":
 
     print("\nReverse Complement:")
 
-    print(reverse_complement(seq))
+    print(reverse_complement(seq)) 
